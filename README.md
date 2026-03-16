@@ -5,6 +5,6 @@ Cara Menggunakannya Kalian install dulu.
 
 git clone https://github.com/CyberNews0/staganographpy
 
-cd git clone staganographpy
+cd staganographpy
 
 python staganographpy.py 
