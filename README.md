@@ -7,4 +7,4 @@ git clone https://github.com/CyberNews0/staganographpy
 
 cd staganographpy
 
-python staganographpy.py 
+python steganographpy.py 
