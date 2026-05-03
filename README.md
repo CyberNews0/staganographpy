@@ -18,3 +18,38 @@ python menu.py
 ![Screenshot_20260321-205422](https://github.com/user-attachments/assets/cba1aed3-c08e-4a63-ac78-4d63d6629d81)
 ![Screenshot_20260321-205440](https://github.com/user-attachments/assets/97cacf35-037f-4aaa-8bb0-028fdfaa0e7f)
 
+==========================
+Update Tools Loke At Me 
+Malware Scanner V3.0 
+==========================
+
+Cara menggunakannya di termux.
+langkah awal yang harus di install
+1.pkg update
+2.pkg upgrade
+3.pkg install yara
+4.pkg install python
+5.pkg install pip
+
+Jika sudah lalu install libbray YARA 
+1.pip uninstall yara yara-python -y
+2.pip install yara-python
+
+lalu check apakah file library YARA sudah benar terinstall
+
+1. ls $PREFIX/lib | grep yara
+Jika sudah di check nanti akan muncul file .iso yara
+
+1. libyara.iso
+
+tinggal kalian gunakan saja script pendeteksinya 
+
+python Menu.py 
+pilih angka 3
+Masukan username : admin
+masukan password : Loke5567
+
+<img width="1080" height="2400" alt="Screenshot_20260502-112848" src="https://github.com/user-attachments/assets/0667be7b-f146-45e2-bc03-af78b1c829e8" />
+<img width="1080" height="2400" alt="Screenshot_20260503-103639" src="https://github.com/user-attachments/assets/744fce6f-a8cc-4cad-b354-ec14b9adce38" />
+
+tinggal kalian jalankan dan check aplikasi apakah ada malwarenya atau tidak selamat menggunakan.
