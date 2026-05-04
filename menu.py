@@ -73,7 +73,7 @@ def menu():
 
     elif pilih == '4':
         print(f"\n{G}[+] Mengecek Update...{N}")
-        os.system("https://github.com/CyberNews0/staganographpy")
+        os.system("git clone https://github.com/CyberNews0/staganographpy")
         time.sleep(2)
         menu()
 
